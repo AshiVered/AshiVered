@@ -6,7 +6,6 @@
 
 > ⚡ Android developer, Noam party activist, And above all... a Jew.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshiVered&hide_border=true&title_color=000&layout=compact">
 
 - Proud jew 🕎
 - Jew / 21 y.o. / Yeshiva student
@@ -24,6 +23,8 @@
 ![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-f80000?style=flat-square&logo=oracle&logoColor=fff)
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshiVered&hide_border=true&title_color=000&layout=compact">
+
 
 😠 **I HATE Python.**
 
