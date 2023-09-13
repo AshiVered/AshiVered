@@ -32,9 +32,9 @@
 ✨ If you like my projects, you can buy me a coffee at:
  - [Buy me coffe](https://www.buymeacoffee.com/ashivered)
 
-## 📫 Get in Touch
+## 📫 My blog
 
-(Recommended!) You can find my other contacts in my Blog -> [![Personal Website](https://img.shields.io/badge/-A.I.V%20blog-ff6550?style=flat-square&logo=AddThis&logoColor=white&labelColor=ff6550)](https://aiv-dev.github.io)
+(Recommended!) I write thoughts, ideas, development experiences and more -> [![Personal Website](https://img.shields.io/badge/-A.I.V%20blog-ff6550?style=flat-square&logo=AddThis&logoColor=white&labelColor=ff6550)](https://aiv-dev.github.io)
 
 
 ## 💻 Working Environment
