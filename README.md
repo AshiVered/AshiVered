@@ -51,7 +51,9 @@
 ![Nokia E71](https://img.shields.io/badge/Nokia%20E71-124191?style=flat-square&logo=nokia&logoColor=ffffff)
 ![Nokia E65](https://img.shields.io/badge/Nokia%20E65-124191?style=flat-square&logo=nokia&logoColor=ffffff)
 ![Show F2](https://img.shields.io/badge/Show%20F2-0f743d?style=flat-square)
-![Blackberry 900](https://img.shields.io/badge/Blackberry%20900-000000?style=flat-square)
+![Blackberry 900](https://img.shields.io/badge/Blackberry%20900-000000?style=flat-squaree&logo=blackberry&logoColor=ffffff)
+![Samsung Galaxy A01Core](https://img.shields.io/badge/Samsung%20Galaxy%20A01Core-BE735B?style=flat-square&logo=samsung&logoColor=ffffff)
+
 
 ### Watch
 
