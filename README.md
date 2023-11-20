@@ -1,5 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AshiVered&show_icons=true&hide_border=true&icon_color=000&title_color=000&include_all_commits_disable=false&custom_title=A.I.V~&count_private=true">
 
+
+![image](https://raw.githubusercontent.com/AshiVered/support-israel-banner/main/assets/support-israel-banner.jpg)
+
 # A.I.V (Ashi Vered) 🔭
 
 ### Hi there 👋 This... It's me? Okay.
