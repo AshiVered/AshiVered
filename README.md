@@ -11,7 +11,7 @@
 
 
 - Proud jew 🕎
-- Jew / 21 y.o. / Yeshiva student
+- Jew / 22 y.o. / Yeshiva student
 - Hebrew / English / Aramaic
 - Custom ROM developer / App developer / programer
 - Electronic Devices Collector (Emphasis on classic keypad phones)
