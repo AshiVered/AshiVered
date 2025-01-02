@@ -28,13 +28,10 @@
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshiVered&hide_border=true&title_color=000&layout=compact">
 
-
-😠 **I HATE Python.**
-
 ## 💰 Buy me a Coffee
 
 ✨ If you like my projects, you can buy me a coffee at:
- - [Buy me coffe](https://www.buymeacoffee.com/ashivered)
+ - [Buy me coffe](https://www.ko-fi.com/ashivered)
 
 ## 📫 My blog
 
