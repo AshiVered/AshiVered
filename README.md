@@ -7,10 +7,9 @@
 
 ### Hi there 👋 This... It's me? Okay.
 
-> ⚡ Android developer, Noam party activist, And above all... a Jew.
+> ⚡ Android developer, Yeshiva student, And above all... a Jew.
 
 
-- Proud jew 🕎
 - Jew / 22 y.o. / Yeshiva student
 - Hebrew / English / Aramaic
 - Custom ROM developer / App developer / programer
@@ -19,6 +18,7 @@
 - [@HarelYinon](https://github.com/HarelYinon)
 - [@Men770](https://github.com/Men770)
 - [@Mordechay0000](https://github.com/Mordechay0000)
+- [@10110000mh](https://github.com/10110000mh)
 
 ## 🌱 Programming Languages
 
