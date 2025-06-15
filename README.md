@@ -19,6 +19,7 @@
 - [@Men770](https://github.com/Men770)
 - [@Mordechay0000](https://github.com/Mordechay0000)
 - [@10110000mh](https://github.com/10110000mh)
+- [@TripleU613](https://github.com/TripleU613)
 
 ## 🌱 Programming Languages
 
