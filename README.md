@@ -10,24 +10,18 @@
 > ⚡ Android developer, Yeshiva student, And above all... a Jew.
 
 
-- Jew / 22 y.o. / Yeshiva student
+- Jew / 23 y.o. / Yeshiva student
 - Hebrew / English / Aramaic
 - Custom ROM developer / App developer / programer
 - Electronic Devices Collector (Emphasis on classic keypad phones)
+- Java/Python/SMALI
+- Reversing/Linux/Android/Feature Phones
 ## Friends
 - [@HarelYinon](https://github.com/HarelYinon)
 - [@Men770](https://github.com/Men770)
 - [@Mordechay0000](https://github.com/Mordechay0000)
-- [@10110000mh](https://github.com/10110000mh)
+- [OxB0](https://github.com/OxB0)
 - [@TripleU613](https://github.com/TripleU613)
-
-## 🌱 Programming Languages
-
-![Android](https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=fff)
-![Batch](https://img.shields.io/badge/-Batch-4d4d4d?style=flat-square&logo=windows%20terminal&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-f80000?style=flat-square&logo=oracle&logoColor=fff)
-![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AshiVered&hide_border=true&title_color=000&layout=compact">
 
 ## 💰 Buy me a Coffee
 
