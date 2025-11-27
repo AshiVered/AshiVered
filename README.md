@@ -6,16 +6,10 @@
 # A.I.V (Ashi Vered) 🔭
 
 ### Hi there 👋 This... It's me? Okay.
-
-> ⚡ Android developer, Yeshiva student, And above all... a Jew.
-
-
-- Jew / 23 y.o. / Yeshiva student
-- Hebrew / English / Aramaic
-- Custom ROM developer / App developer / programer
-- Electronic Devices Collector (Emphasis on classic keypad phones)
-- Java/Python/SMALI
-- Reversing/Linux/Android/Feature Phones
+<!-- Terminal-style profile README for ashivered -->
+<p align="left">
+  <img src="./terminal.gif" alt="terminal typing" width="880"/>
+</p>
 ## Friends
 - [@HarelYinon](https://github.com/HarelYinon)
 - [@Men770](https://github.com/Men770)
