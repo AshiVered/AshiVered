@@ -28,14 +28,3 @@ If you like my projects, you can buy me a coffee at:
 ## My blog
 
 (Recommended!) I write thoughts, ideas, development experiences and more -> [A.I.V Dev blog](https://aiv-dev.github.io)
-
-
-### Watch
-
-![Garmin forerunner 745](https://img.shields.io/badge/Garmin%20forerunner%20745-fd4900?style=flat-square)
-
-
-
-### Computer
-
-![ASUS P1440FA](https://img.shields.io/badge/ASUS%20P1440FA-BE735B?style=flat-square&logo=asus&logoColor=ffffff)
